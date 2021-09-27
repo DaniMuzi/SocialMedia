@@ -1,7 +1,7 @@
 These files contain the time series and the associated hashtags we obtained by sampling Twitter for our paper "Universality, 
 criticality and complexity of information propagation on social media". The analysis is reported in 
 
-LINK TO PAPER
+https://arxiv.org/abs/2109.00116
 
 Please acknowledge the use of these data by citing the paper above.
 
